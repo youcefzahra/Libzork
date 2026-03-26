@@ -29,7 +29,7 @@ A pre-compiled demo is available in the **Releases** section.
 
 1. Download and extract the `libzork_demo.tar.gz` archive.
 2. Ensure your library path includes the current directory and run the explorer:
-
 ```bash
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:.
 ./zorkxplorer --story tests/stories/short_static/story.yml
+```
